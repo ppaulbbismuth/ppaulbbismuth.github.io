@@ -1,11 +1,17 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Fast Autonomous Drone Landing Master Thesis'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+There is an increasing demand for fast drone deliveries for both consumer’s necessitiesand medical emergencies. All aircraft are subject to landing difficulties because of near-groundaerodynamic effects and complications with moving from air to land. In addition to improvingdelivery, there have been many developments within space research aiming to reduce globalcost. Reusable rockets are regarded as the future of space travel, however, numerous accidentshave been observed during landing, making these rockets an unreliable resource for experi-mentation. The standard approach for both drone delivery and reusable rockets requires speedreduction before landing, as explained by the lack of precision of the embedded sensors com-bined with the fragility of the frame. The landing shock thus needs to be attenuated to deformirremediably the frame structure. Therefore there is a need for improvement of landing ap-proach for more reliability. The main research contents of this thesis cover different areas forthe development of a newly designed electric thrust vectored rocket that aims to incorporate afast landing approach using this new benchmark system.
+
+# Drone Perception
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/teset.jpg" %}
 
+# Guidance and Control
+
 {% include image-static.html image="projects/proj-1/teset.jpg" %}
+
+# Mechanical Landing Gears
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
