@@ -63,7 +63,8 @@ projects:
 
 social:
 - {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+#- {icon: 'linkedin', link: '#'}
+- {icon: 'envelope', link: 'mailto:ju.mellet@gmail.com'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCwZUcUe_qjaWhh-97-XTDgA'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
