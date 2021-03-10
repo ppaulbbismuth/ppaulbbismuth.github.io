@@ -3,6 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
+#- {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -62,9 +63,9 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'github', link: '#'}
-#- {icon: 'linkedin', link: '#'}
+- {icon: 'github', link: 'https://github.com/jumellet'}
 - {icon: 'envelope', link: 'mailto:ju.mellet@gmail.com'}
 - {icon: 'youtube', link: 'https://www.youtube.com/channel/UCwZUcUe_qjaWhh-97-XTDgA'}
+
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

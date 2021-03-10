@@ -6,12 +6,20 @@ There is an increasing demand for fast drone deliveries for both consumer’s ne
 
 #### Drone Perception
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/teset.jpg" %}
+The research proposes a way to generate accurate photorealistic dataset for a given landing pad. It is then possible to use it for supervised learning.
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+
+The proposed dataset generator gives a way to feed the neural networks. It has then the ability to accurately estimate its position with a wide range of vision. Thanks to an appropriate landing pad shape, even seeing only part of the landing area permits the drone to descend.
 
 #### Guidance and Control
 
-{% include image-static.html image="projects/proj-1/teset.jpg" %}
+For visual servoing, a multi-scale control is proposed where control sensitivity depends on drone altitude. Using the neural network in a simulated environment, the processing rate has been multiplied by three.
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
 
 #### Mechanical Landing Gear
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+For fast landing situations, the vertical speed is higher than standard descent. The research proposes a landing gears that absorbs more thant ten times the kinetic energy of standard landing leg.
+
+{% include image-static.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
