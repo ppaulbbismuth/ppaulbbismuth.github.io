@@ -3,6 +3,8 @@ layout: post
 title: 'The Hive Tracker'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+This project is about a miniaturization of the Vive Tracker by HTC. It allows sub-millimetric 3d positioning at scale, and embeds a 9DoF IMU with sensor fusion. The <a href="https://github.com/HiveTracker">repository</a> shows several developments and documented test bricks.
 
 {% include image.html url="https://hivetracker.github.io/" image="projects/proj-2/hive-tracker.jpg" %}
+
+{% include image-static.html url="https://hivetracker.github.io/" image="projects/proj-2/animation.gif" %}
