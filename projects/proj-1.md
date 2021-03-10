@@ -16,10 +16,10 @@ The proposed dataset generator gives a way to feed the neural networks. It has t
 
 For visual servoing, a multi-scale control is proposed where control sensitivity depends on drone altitude. Using the neural network in a simulated environment, the processing rate has been multiplied by three.
 
-{% include image-static.html image="projects/proj-1/guidance-control.jpg" %}
+{% include image-static.html image="projects/proj-1/drone-land.gif" %}
 
 #### Mechanical Landing Gear
 
-For fast landing situations, the vertical speed is higher than standard descent. The research proposes a landing gears that absorbs more than ten times the kinetic energy of standard landing leg. A patent a patent filing currently protects the concept.
+For fast landing situations, the vertical speed is higher than standard descent. The research proposes a landing gears that absorbs more than ten times the kinetic energy of standard landing leg. A patent filing currently protects the concept.
 
 {% include image-static.html image="projects/proj-1/landing-gear.jpg" %}
