@@ -15,8 +15,12 @@ The robot embeds common and open source components to be easily made.
 
 #### Mechanical Design
 
-As the project aims to be open source, we try to make the robot fully 3D printable. 
+As the project aims to be open source, we try to make the robot fully 3D printable.
+
+{% include image-static.html image="projects/proj-4/wheels.jpg" %}
 
 #### Elementary Programming
 
 This now our goal to propose introduction to algorithms from the youngest age. We provide an easy way to learn how to structure computer code and execute it.
+
+{% include image-static.html image="projects/proj-4/image-detection.jpg" %}
