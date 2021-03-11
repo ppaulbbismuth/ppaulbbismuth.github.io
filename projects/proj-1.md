@@ -23,3 +23,5 @@ For visual servoing, a multi-scale control is proposed where control sensitivity
 For fast landing situations, the vertical speed is higher than standard descent. The research proposes a landing gears that absorbs more than ten times the kinetic energy of standard landing leg. A patent filing currently protects the concept.
 
 {% include image-static.html image="projects/proj-1/landing-gear.jpg" %}
+
+[Download Thesis]({{ site.url }}/assets/pdf/NPU-2018280049.pdf) directly.
