@@ -11,13 +11,13 @@ This platform is an open source meccanum vehicle. It is firstly build for educat
 
 The robot embeds common and open source components to be easily made.
 
-{% include image.html image="projects/proj-4/architecture.jpg" %}
+{% include image-static.html image="projects/proj-4/architecture.jpg" %}
 
 #### Mechanical Design
 
 As the project aims to be open source, we try to make the robot fully 3D printable.
 
-{% include image-static.html url="https://github.com/jumellet/ilo-bot/tree/main/parts" image="projects/proj-4/wheels.jpg" %}
+{% include image.html url="https://github.com/jumellet/ilo-bot/tree/main/parts" image="projects/proj-4/wheels.jpg" %}
 
 #### Elementary Programming
 
