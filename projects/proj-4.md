@@ -5,13 +5,13 @@ title: 'ilo Robot'
 
 This platform is an open source meccanum vehicle. It is firstly build for educative purpose such as "discovery of programming" and the "notion of ten" in elementary school.
 
-{% include image-static.html url="https://github.com/jumellet/ilo-bot" image="projects/proj-4/robot.jpg" %}
+{% include image.html url="https://github.com/jumellet/ilo-bot" image="projects/proj-4/robot.jpg" %}
 
 #### System Architecture
 
 The robot embeds common and open source components to be easily made.
 
-{% include image-static.html image="projects/proj-4/architecture.jpg" %}
+{% include image.html image="projects/proj-4/architecture.jpg" %}
 
 #### Mechanical Design
 
