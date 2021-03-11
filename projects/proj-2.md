@@ -9,8 +9,10 @@ This project is about a miniaturization of the Vive Tracker by HTC. It allows su
 
 On this project, I have first simulate the Hive Tracker on a game engine.
 
-(Add gif blender game engine)
+{% include image.html url="https://github.com/jumellet/Kalman-Filter/tree/Dev/Simulations" image="projects/proj-2/sim.gif" %}
 
-I have then implemented the mathematical principle of the HTC Vive localisation principle. As we want it to be open source, we used Blender for 3D virtuam representation.
+I have then implemented the mathematical principle of the HTC Vive localisation. As we want it to be open source, we used Blender for 3D virtual representation.
 
 {% include image-static.html url="https://hivetracker.github.io/" image="projects/proj-2/animation.gif" %}
+
+[Download internship report]({{ site.url }}/assets/pdf/Internship_2018.pdf) in French directly.
