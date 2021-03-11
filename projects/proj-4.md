@@ -9,7 +9,9 @@ This platform is an open source meccanum vehicle. It is firstly build for educat
 
 #### System Architecture
 
+#### Mechanical Design
 
+As the project aims to be open source, we try to make the robot fully 3D printable. 
 
 #### Elementary Programming
 
