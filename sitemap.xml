@@ -2,44 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ppaulbbismuth.github.io/</loc>
+    <loc>https://ppaulbbismuth.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/talk/example-talk/</loc>
+    <loc>https://ppaulbbismuth.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ppaulbbismuth.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://ppaulbbismuth.github.io/publication-type/7/</loc>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://ppaulbbismuth.github.io/publication/fast-landing/</loc>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://ppaulbbismuth.github.io/publication_types/</loc>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://ppaulbbismuth.github.io/publication/</loc>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://ppaulbbismuth.github.io/publication-type/3/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://ppaulbbismuth.github.io/publication/e-rocket/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://ppaulbbismuth.github.io/publication-type/0/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://ppaulbbismuth.github.io/publication/ilo-robot/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ppaulbbismuth.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ppaulbbismuth.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ppaulbbismuth.github.io/publication-type/4/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ppaulbbismuth.github.io/publication/hive-tracker/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ppaulbbismuth.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -50,18 +56,11 @@
     <loc>https://ppaulbbismuth.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ppaulbbismuth.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ppaulbbismuth.github.io/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ppaulbbismuth.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ppaulbbismuth.github.io/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://ppaulbbismuth.github.io/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ppaulbbismuth.github.io/admin/</loc>
+  </url><url>
+    <loc>https://ppaulbbismuth.github.io/categories/</loc>
   </url>
 </urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | J. Mellet</title>
+    <link>https://ppaulbbismuth.github.io/publication-type/0/</link>
+      <atom:link href="https://ppaulbbismuth.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>J. Mellet © 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ppaulbbismuth.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://ppaulbbismuth.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>ilo Robot</title>
+      <link>https://ppaulbbismuth.github.io/publication/ilo-robot/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ppaulbbismuth.github.io/publication/ilo-robot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;robot.jpg&#34; alt=&#34;alt text&#34; title=&#34;ilo CAD&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;system-architecture&#34;&gt;System Architecture&lt;/h4&gt;
+&lt;p&gt;The robot embeds common and open source components to be easily made.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;architecture.jpg&#34; alt=&#34;alt text&#34; title=&#34;ilo Architecture&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;mechanical-design&#34;&gt;Mechanical Design&lt;/h4&gt;
+&lt;p&gt;As the project aims to be open source, we try to make the robot fully 3D printable. &lt;a href=&#34;%22https://github.com/jumellet/ilo-bot/tree/main/parts%22&#34;&gt;Here&lt;/a&gt; can be found the differnet parts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;wheels.jpg&#34; alt=&#34;alt text&#34; title=&#34;ilo Meccanum Wheels&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;elementary-programming&#34;&gt;Elementary Programming&lt;/h4&gt;
+&lt;p&gt;It is now our goal to propose introduction of algorithms from the youngest age. We provide an easy way to learn how to structure computer code and execute it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-detection.jpg&#34; alt=&#34;alt text&#34; title=&#34;ilo Image Detection&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
